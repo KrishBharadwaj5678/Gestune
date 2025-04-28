@@ -8,7 +8,7 @@ Control your system volume with simple hand gestures! ✋ It's a fun, touch-free
 
 ## 🚀 Features
 
-- ✋ **Hand gestures** to control volume (swipe up to increase, swipe down to decrease).
+- ✋ **Hand gestures** to control volume (pinch to decrease, spread to increase).
 - 🤖 Uses **MediaPipe** for hand tracking and **OpenCV** for capturing video.
 - 🎧 Seamlessly integrates with system audio volume using PyCaw.
 - ⚡ Lightweight and easy to use.
@@ -48,8 +48,8 @@ python VolumeHandControl.py
 ```
 
 3. **Make gestures** ✋ in front of your camera to control the system's volume:
-    - 🔼 **Swipe up** with your hand to increase the volume.
-    - 🔽 **Swipe down** with your hand to decrease the volume.
+    - 🤏 **Pinch** your thumb and second finger together to decrease the volume.
+    - 🔽 **Spread** your thumb and second finger apart to increase the volume.
 
 ---
 
