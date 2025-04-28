@@ -1,6 +1,6 @@
 # 🤚 **Gestune**
 
-Control your system volume with hand gestures! ✋ It's a fun, touch-free way to manage audio levels without reaching for the keyboard or mouse. 🖱️
+Control your system volume with hand gestures! It's a fun, touch-free way to manage audio levels without reaching for the keyboard or mouse. 🖱️🔊
 
 ---
 
