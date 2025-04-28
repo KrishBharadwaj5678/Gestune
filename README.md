@@ -8,7 +8,7 @@ Control your system's volume with simple hand gestures! ✋ It's a fun, touch-fr
 
 - ✋ **Hand gestures** to control volume (swipe up to increase, swipe down to decrease).
 - 🤖 Uses **MediaPipe** for hand tracking and **OpenCV** for capturing video.
-- 🎧 Seamlessly integrates with system audio volume.
+- 🎧 Seamlessly integrates with system audio volume using PyCaw.
 - ⚡ Lightweight and easy to use.
 
 ---
@@ -20,12 +20,12 @@ Before running the application, make sure you have the following dependencies in
 - 🐍 **Python 3.x**
 - 📷 **OpenCV**
 - 🖐️ **MediaPipe**
-- 🖱️ **PyAutoGUI** (for controlling the volume)
+- 🔊 **PyCaw** (for controlling the volume)
   
 To install the required dependencies, run the following command:
 
 ```bash
-pip install opencv-python mediapipe pyautogui
+pip install opencv-python mediapipe pyautogui numpy
 ```
 
 ---
