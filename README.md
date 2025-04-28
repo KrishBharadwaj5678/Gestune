@@ -1,6 +1,6 @@
-# 🤚 **Gestune** 🔊
+# 🤚 **Gestune**
 
-Control your system's volume with simple hand gestures! ✋ This Python-based application uses **OpenCV** 📸 and **MediaPipe** 🤖 to track your fingers and adjust the system volume accordingly. It's a fun, touch-free way to manage audio levels without reaching for the keyboard or mouse. 🎶
+Control your system's volume with simple hand gestures! ✋ It's a fun, touch-free way to manage audio levels without reaching for the keyboard or mouse. 🎶
 
 ---
 
