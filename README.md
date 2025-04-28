@@ -51,7 +51,7 @@ python VolumeHandControl.py
 
 3. **Make gestures** ✋ in front of your camera to control the system's volume:
     - 🤏 **Pinch** your thumb and second finger together to decrease the volume.
-    - 🔽 **Spread** your thumb and second finger apart to increase the volume.
+    - ✋ **Spread** your thumb and second finger apart to increase the volume.
 
 ---
 
