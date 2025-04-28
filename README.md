@@ -1,5 +1,7 @@
 # 🤚 **Gestune**
 
+![Gesture Volume Control](path/to/your/image.png)
+
 Control your system's volume with simple hand gestures! ✋ It's a fun, touch-free way to manage audio levels without reaching for the keyboard or mouse. 🎶
 
 ---
@@ -48,14 +50,6 @@ python VolumeHandControl.py
 3. **Make gestures** ✋ in front of your camera to control the system's volume:
     - 🔼 **Swipe up** with your hand to increase the volume.
     - 🔽 **Swipe down** with your hand to decrease the volume.
-
----
-
-## 📸 Screenshots
-
-Here is a sample image of the application in action:
-
-![Gesture Volume Control](path/to/your/image.png)
 
 ---
 
