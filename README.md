@@ -36,13 +36,13 @@ pip install opencv-python mediapipe pyautogui numpy
 
 ```bash
 git clone https://github.com/KrishBharadwaj5678/Gestune.git
-cd gesture-volume-control
+cd gestune
 ```
 
 2. **Run the script:**
 
 ```bash
-python gesture_volume_control.py
+python VolumeHandControl.py
 ```
 
 3. **Make gestures** ✋ in front of your camera to control the system's volume:
