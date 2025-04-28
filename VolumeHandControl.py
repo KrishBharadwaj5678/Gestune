@@ -37,7 +37,7 @@ while True:
         # Getting Thumb(x1,y1) and Second Finger(x2,y2) Position
         x1,y1 = lmList[4][1],lmList[4][2]
         x2,y2 = lmList[8][1],lmList[8][2]
-        # Middle Position between these two fingers
+        # Middle Position between Two fingers
         cx,cy = (x1+x2)//2,(y1+y2)//2
 
         # Drawing Circles and Line between fingers
