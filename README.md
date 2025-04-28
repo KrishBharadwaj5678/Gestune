@@ -2,7 +2,7 @@
 
 ![Gesture Volume Control](gestune.png)
 
-Control your system's volume with simple hand gestures! ✋ It's a fun, touch-free way to manage audio levels without reaching for the keyboard or mouse. 🎶
+Control your system volume with simple hand gestures! ✋ It's a fun, touch-free way to manage audio levels without reaching for the keyboard or mouse. 🖱️
 
 ---
 
