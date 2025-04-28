@@ -35,7 +35,7 @@ pip install opencv-python mediapipe pyautogui numpy
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/your-username/gesture-volume-control.git
+git clone https://github.com/KrishBharadwaj5678/Gestune.git
 cd gesture-volume-control
 ```
 
