@@ -1,6 +1,6 @@
 # 🤚 **Gestune**
 
-Control your system volume with hand gestures! It's a fun, touch-free way to manage audio levels without reaching for the keyboard or mouse. 🖱️🔊
+Control your system volume with hand gestures! It's a fun, touch-free way to manage audio levels without reaching for the keyboard or mouse. 
 
 ---
 
@@ -10,23 +10,18 @@ Control your system volume with hand gestures! It's a fun, touch-free way to man
 
 ## 🚀 Features
 
-- ✋ **Hand gestures** to control volume (pinch to decrease, spread to increase).
-- 🤖 Uses **MediaPipe** for hand tracking and **OpenCV** for capturing video.
-- 🎧 Seamlessly integrates with system audio volume using PyCaw.
-- ⚡ Lightweight and easy to use.
+| Feature | Description |
+|----------|--------------|
+| ✋ **Hand Gestures** | Control system volume using hand gestures — pinch to decrease, spread to increase . |
+| 🤖 **AI-Powered Tracking** | Uses **MediaPipe** for hand tracking and **OpenCV** for capturing video in real time. |
+| 🎧 **System Integration** | Seamlessly integrates with system audio volume using **PyCaw**. |
+| ⚡ **Lightweight & Easy to Use** | Fast, efficient, and simple to set up for a smooth user experience. |
 
 ---
 
 ## ⚙️ Requirements
 
-Before running the application, make sure you have the following dependencies installed:
-
-- 🐍 **Python 3.x**
-- 📷 **OpenCV**
-- 🖐️ **MediaPipe**
-- 🔊 **PyCaw** (for controlling the volume)
-  
-To install the required dependencies, run the following command:
+Install the following dependencies -
 
 ```bash
 pip install opencv-python mediapipe pyautogui numpy
@@ -40,7 +35,7 @@ pip install opencv-python mediapipe pyautogui numpy
 
 ```bash
 git clone https://github.com/KrishBharadwaj5678/Gestune.git
-cd gestune
+cd Gestune
 ```
 
 2. **Run the script:**
