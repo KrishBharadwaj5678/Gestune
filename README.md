@@ -2,11 +2,7 @@
 
 Control your system volume with hand gestures! It's a fun, touch-free way to manage audio levels without reaching for the keyboard or mouse. 
 
----
-
 ![Gesture Volume Control](gestune.png)
-
----
 
 ## 🚀 Features
 
@@ -26,8 +22,6 @@ Install the following dependencies -
 ```bash
 pip install opencv-python mediapipe pyautogui numpy
 ```
-
----
 
 ## 📝 How to Use
 
@@ -50,9 +44,12 @@ python VolumeHandControl.py
 
 ---
 
-## 🤝 Contributing
+## Contributing 🤝
 
-We welcome contributions! If you'd like to contribute, feel free to fork the repository and submit a pull request. Here are a few ways you can help:
-- 🐞 Bug fixes
-- 🛠️ Code improvements
-- ✨ Feature requests
+Want to contribute? Here's how:
+
+1. 🍴 Fork the repository.
+2. 🌿 Create a new branch (`git checkout -b feature-name`).
+3. ✍️ Make your changes and commit them (`git commit -am 'Add feature-name'`).
+4. 🚀 Push to your branch (`git push origin feature-name`).
+5. 🔄 Submit a pull request to merge into the main branch.
